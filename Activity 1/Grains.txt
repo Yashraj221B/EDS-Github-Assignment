@@ -1,0 +1,20 @@
+Find the total number of tweets in the dataset.
+Find the number of real disaster and non-disaster tweets.
+Calculate the percentage of real disaster tweets using NumPy.
+Calculate the percentage of non-disaster tweets using NumPy.
+Find the number of missing values in keyword and location.
+Replace missing keywords with "unknown" using NumPy.
+Replace missing locations with "unknown" using NumPy.
+Add a new column text_length representing the number of characters in the tweet.
+Add a new column word_count representing the number of words in the tweet.
+Calculate the average word count of disaster tweets using NumPy.
+Calculate the average word count of non-disaster tweets using NumPy.
+Find the most common keyword among real disaster tweets.
+Find the most common keyword among non-disaster tweets.
+Find the tweet with the maximum number of characters.
+Find the tweet with the minimum number of characters.
+Remove duplicate tweets and display the new shape of the dataset.
+Calculate the correlation between text length and target using NumPy.
+Group tweets by location and count disaster tweets.
+Find the top 5 locations with the highest number of disaster tweets.
+Find how many disaster tweets contain the word "help" using Numpy and String Operations.
